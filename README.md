@@ -7,6 +7,9 @@
 - Software 📱
 - SQL 📝
 
+<p align="center">
+<img src="BB092-thumbnail.gif" width="500">
+</p>
 
 
   ### Olá! Me chamo Henrique, estou caminhando para enfrentar a programação e tecnologia!
