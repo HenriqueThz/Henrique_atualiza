@@ -1,7 +1,7 @@
 # Henrique Costa
 - Engenharia de Software 💻
 - Start Full Stack 📍
-- Impacta Tecnologia 7/10 📚
+- Impacta Tecnologia 📚
 - Front-End 📈
 - Hardware ⚒️
 - Software 📱
