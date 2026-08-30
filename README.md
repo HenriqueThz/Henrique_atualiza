@@ -14,11 +14,7 @@
 
   ### Olá! Me chamo Henrique, estou caminhando para enfrentar a programação e tecnologia!
 ### Seja bem vindo ao meu santuário tecnológico!
-<div align="center">
-  <a href="https://github.com/HenriqueThz">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=HenriqueTHZ&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GuiLeoni14&layout=compact&langs_count=20&theme=radical"/>
-</div>
+
     
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
